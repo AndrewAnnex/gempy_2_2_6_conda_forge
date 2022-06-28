@@ -1,0 +1,671 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/examples/examples/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/examples/examples/geometries/1_horizontal_stratigraphic.py",
+      "path_type": "hardlink",
+      "sha256": "3e281b5ee7d84cc9a9f6eb1c890befe311cff65b2fbd1d71082bfaecf690f554",
+      "size_in_bytes": 1545
+    },
+    {
+      "_path": "site-packages/examples/examples/geometries/2_fold.py",
+      "path_type": "hardlink",
+      "sha256": "f8ef67c0597675dff105c7cffe4807d95a082f88daf8cb219c48d1e6dbce660e",
+      "size_in_bytes": 1484
+    },
+    {
+      "_path": "site-packages/examples/examples/geometries/3_recumbent_fold.py",
+      "path_type": "hardlink",
+      "sha256": "c90d05d85cc5f0a282799a425027e8740812743b6d2ed2173c3ad89725f91597",
+      "size_in_bytes": 1477
+    },
+    {
+      "_path": "site-packages/examples/examples/geometries/4_pinchout.py",
+      "path_type": "hardlink",
+      "sha256": "143e0e89f6c85421d1a107fb19d10c9157941e295d6608dc8a368be234eb9ecd",
+      "size_in_bytes": 1573
+    },
+    {
+      "_path": "site-packages/examples/examples/geometries/5_fault.py",
+      "path_type": "hardlink",
+      "sha256": "53a93dfe9061838e49322980fbde6bf8bc43d428044a3a46e35817933e4b3737",
+      "size_in_bytes": 1672
+    },
+    {
+      "_path": "site-packages/examples/examples/geometries/6_unconformity.py",
+      "path_type": "hardlink",
+      "sha256": "5795d74bb44a9d1f15617ee77128b9eb698bb176939a6fa6f35b8bf5e1648674",
+      "size_in_bytes": 1588
+    },
+    {
+      "_path": "site-packages/examples/examples/geometries/7_combination.py",
+      "path_type": "hardlink",
+      "sha256": "eae4e48174dc0a2c1805d973fd61c3be7668ae2fbcf8370e80fb51b4ec3e06c3",
+      "size_in_bytes": 1756
+    },
+    {
+      "_path": "site-packages/examples/examples/geometries/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/examples/examples/geometries/more_examples.py",
+      "path_type": "hardlink",
+      "sha256": "3f69976f4e70cd620b9548f7079a1319703ea3f3bda2bea8c7059993df4e2552",
+      "size_in_bytes": 5863
+    },
+    {
+      "_path": "site-packages/examples/examples/real/Alesmodel.py",
+      "path_type": "hardlink",
+      "sha256": "d0750334d4e259b44298ad05f7e664a0e01431c2d0b7015263401211e1079e9b",
+      "size_in_bytes": 2863
+    },
+    {
+      "_path": "site-packages/examples/examples/real/Claudius.py",
+      "path_type": "hardlink",
+      "sha256": "46c7aba6873fe853f5518c2493453fc78cced5e4d130b1c39d39dedfed0737b9",
+      "size_in_bytes": 8062
+    },
+    {
+      "_path": "site-packages/examples/examples/real/Greenstone.py",
+      "path_type": "hardlink",
+      "sha256": "0d7581f998b1e64d25fe50ea669cb1197ae330044d1528fd74e893ac801f28be",
+      "size_in_bytes": 2064
+    },
+    {
+      "_path": "site-packages/examples/examples/real/Hecho.py",
+      "path_type": "hardlink",
+      "sha256": "cf39eb107b7af99757db4b6fcc459366d112c2e4087a5e320f2918251b0834f3",
+      "size_in_bytes": 6065
+    },
+    {
+      "_path": "site-packages/examples/examples/real/Moureze.py",
+      "path_type": "hardlink",
+      "sha256": "1a36246c3233cc2571081240a1d9ff8183f10fde3a756ba3b2401f56dabde494",
+      "size_in_bytes": 4855
+    },
+    {
+      "_path": "site-packages/examples/examples/real/Perth_basin.py",
+      "path_type": "hardlink",
+      "sha256": "f0a6ec397f27212005902e37352e6fd4d9056d16b5557f391e299d5a352c57a4",
+      "size_in_bytes": 4950
+    },
+    {
+      "_path": "site-packages/examples/examples/real/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/examples/getting_started/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/examples/getting_started/get_started.py",
+      "path_type": "hardlink",
+      "sha256": "d6ccd8a27faa73c98ca789dcebc93a504887ab645047f08118d31f5ad323de1b",
+      "size_in_bytes": 9801
+    },
+    {
+      "_path": "site-packages/examples/integrations/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/examples/integrations/gempy_discretize_emg3d.py",
+      "path_type": "hardlink",
+      "sha256": "0a68e3df65160fa38e5fb52936e53b8f2da002ca028bb92181978df7bb5525c9",
+      "size_in_bytes": 6577
+    },
+    {
+      "_path": "site-packages/examples/integrations/gempy_export_MOOSE.py",
+      "path_type": "hardlink",
+      "sha256": "f2c9cc0dca8738139f31e1b2e79e13994b4ff87e9e9c90275cca1edd2e976bf9",
+      "size_in_bytes": 6380
+    },
+    {
+      "_path": "site-packages/examples/integrations/gempy_striplog.py",
+      "path_type": "hardlink",
+      "sha256": "48493831867c50970af7206bf163378184db5f576ed34bbf1a163a7672f171c1",
+      "size_in_bytes": 5818
+    },
+    {
+      "_path": "site-packages/examples/tutorials/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/examples/tutorials/ch2-Geophysics/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/examples/tutorials/ch2-Geophysics/ch2_1_gravity.py",
+      "path_type": "hardlink",
+      "sha256": "85c57b4af3d7d0de4c463ca1d9635def027b0019ffb39281db924bf3fc42b971",
+      "size_in_bytes": 4319
+    },
+    {
+      "_path": "site-packages/examples/tutorials/ch2-Geophysics/ch2_2_cell_selection.py",
+      "path_type": "hardlink",
+      "sha256": "a083714e69d0ed27e7cb4c9d63c08313fa4c317fb84eae4af6d9945668ee91cc",
+      "size_in_bytes": 3753
+    },
+    {
+      "_path": "site-packages/examples/tutorials/ch4-Topology/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/examples/tutorials/ch4-Topology/ch4-1-Topology.py",
+      "path_type": "hardlink",
+      "sha256": "8d281f7e21dad580c03d5cb42d60e07aacacfcd46a59d680e0b748a06dd3d2be",
+      "size_in_bytes": 5049
+    },
+    {
+      "_path": "site-packages/gempy-2.2.6.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/gempy-2.2.6.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "ea7d049c7705dc13afc202dd18e1827f3484f8212fd3fa7b82fc4a0c363432c9",
+      "size_in_bytes": 7816
+    },
+    {
+      "_path": "site-packages/gempy-2.2.6.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "553b3ae9e4522e3915ebaf000c584692607b4147016a7e89334ecedcff720937",
+      "size_in_bytes": 723
+    },
+    {
+      "_path": "site-packages/gempy-2.2.6.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "b63709b71b329b4dc0bcfac5642fac1c1559abfdd4855c864f8814dfe96e20cd",
+      "size_in_bytes": 15985
+    },
+    {
+      "_path": "site-packages/gempy-2.2.6.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/gempy-2.2.6.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "site-packages/gempy-2.2.6.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "06fc2fcd2c8298605f291aa4123da2a3ce9f756412e57c5308f7752443917624",
+      "size_in_bytes": 101
+    },
+    {
+      "_path": "site-packages/gempy-2.2.6.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "30b88d3c088a21e40c0128ac3b75480cb8826797ec4c9b150c316f435b8cfae3",
+      "size_in_bytes": 15
+    },
+    {
+      "_path": "site-packages/gempy/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "502822932b78d249c36b6e6e2e351d29c8535f462e8ed171a165c8d1662819d0",
+      "size_in_bytes": 1269
+    },
+    {
+      "_path": "site-packages/gempy/addons/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/gempy/addons/gempy_to_rexfile.py",
+      "path_type": "hardlink",
+      "sha256": "e23c97a49d644cc50de087701789c10e0cabdd1fb3d303abf777872aa5ea852a",
+      "size_in_bytes": 30029
+    },
+    {
+      "_path": "site-packages/gempy/addons/rex_api.py",
+      "path_type": "hardlink",
+      "sha256": "313c534fb6e22131082e7a230be6b8beeb461b7c5fcd9f504847bd891267b69d",
+      "size_in_bytes": 11414
+    },
+    {
+      "_path": "site-packages/gempy/api_modules/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/gempy/api_modules/aux_func.py",
+      "path_type": "hardlink",
+      "sha256": "004267a874aa41b649b9bcd872d1d574f484c7f559516fcf9aaef89a38560d60",
+      "size_in_bytes": 1202
+    },
+    {
+      "_path": "site-packages/gempy/api_modules/editing.py",
+      "path_type": "hardlink",
+      "sha256": "785fe303522428746d8ad497d942384b394b9948bd2d26086ca37df04f1777e7",
+      "size_in_bytes": 1600
+    },
+    {
+      "_path": "site-packages/gempy/api_modules/getters.py",
+      "path_type": "hardlink",
+      "sha256": "95f5b98bee30b5e3c32ef669d7df779add8d971366e9fadbd0969b1741221143",
+      "size_in_bytes": 2228
+    },
+    {
+      "_path": "site-packages/gempy/api_modules/io.py",
+      "path_type": "hardlink",
+      "sha256": "498c5a2adb60e1c2509630472e4720432ffbfbaa37be9d7940b61d8a38d40334",
+      "size_in_bytes": 15002
+    },
+    {
+      "_path": "site-packages/gempy/api_modules/setters.py",
+      "path_type": "hardlink",
+      "sha256": "03af900acf0524b88537180b71cf3fe04a140576a25391d7a1099e44b6b96bb1",
+      "size_in_bytes": 7582
+    },
+    {
+      "_path": "site-packages/gempy/assets/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/gempy/assets/coKriging.py",
+      "path_type": "hardlink",
+      "sha256": "d5af5fe256479efac361ec8ffcc947e1f04ecf323f54fa64dc14cbc1e1516837",
+      "size_in_bytes": 41806
+    },
+    {
+      "_path": "site-packages/gempy/assets/decision_making.py",
+      "path_type": "hardlink",
+      "sha256": "55bd107a2a366ee53641c7de9bbbcaee2da7f22a22443b199fa14ce0153bb635",
+      "size_in_bytes": 27334
+    },
+    {
+      "_path": "site-packages/gempy/assets/geophysics.py",
+      "path_type": "hardlink",
+      "sha256": "da02395694a4b3290a62410a5b48f01d2390e3b3b83c66f0c8253978cc3a80d7",
+      "size_in_bytes": 5320
+    },
+    {
+      "_path": "site-packages/gempy/assets/kriging.py",
+      "path_type": "hardlink",
+      "sha256": "5edb95ba491106041b735f6ab5e5a2c1db0578b8746a3a50d3443e8c2cd2f1dc",
+      "size_in_bytes": 24669
+    },
+    {
+      "_path": "site-packages/gempy/assets/spill_analysis.py",
+      "path_type": "hardlink",
+      "sha256": "f95855941f7473f57b4478a76a90d79a376273255866ced69561f4351a4eae23",
+      "size_in_bytes": 20321
+    },
+    {
+      "_path": "site-packages/gempy/assets/topology.py",
+      "path_type": "hardlink",
+      "sha256": "0f3c6a4ecd495f34d5a81b7d1d1ff0bbb0166ea41488faa3b69d6a98e7084f14",
+      "size_in_bytes": 20332
+    },
+    {
+      "_path": "site-packages/gempy/bayesian/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/gempy/bayesian/axes_utils.py",
+      "path_type": "hardlink",
+      "sha256": "3c65154f14edd5c635d2ecb127dbfccde55906184d1a1f20b6974054b147ffd2",
+      "size_in_bytes": 4661
+    },
+    {
+      "_path": "site-packages/gempy/bayesian/fields.py",
+      "path_type": "hardlink",
+      "sha256": "65a346a16f855aa62206399d3f990e064893ddbed96e2a64c425e0f1a5bc2447",
+      "size_in_bytes": 595
+    },
+    {
+      "_path": "site-packages/gempy/bayesian/joyplot.py",
+      "path_type": "hardlink",
+      "sha256": "40939e2ab14f40bc024e09a44def3472e679c217930b5874f02b1f120b425b65",
+      "size_in_bytes": 20716
+    },
+    {
+      "_path": "site-packages/gempy/bayesian/plot_posterior.py",
+      "path_type": "hardlink",
+      "sha256": "fb99f87a447fae040cc5ee2e861b458e27b555fd4401453f02b3dec9eaef034f",
+      "size_in_bytes": 25592
+    },
+    {
+      "_path": "site-packages/gempy/bayesian/posterior_analysis_DEP.py",
+      "path_type": "hardlink",
+      "sha256": "c477ff46511d51af0925faa62bf39a5ad4ccf1dc96e951e22a4f0080a8866cf2",
+      "size_in_bytes": 22082
+    },
+    {
+      "_path": "site-packages/gempy/bayesian/posterior_analysis_elisa.py",
+      "path_type": "hardlink",
+      "sha256": "b532b15f3c04e57f97fa4536c684e98f48b9c3267f64551a84e9bfdcc83e714e",
+      "size_in_bytes": 8817
+    },
+    {
+      "_path": "site-packages/gempy/bayesian/theano_op.py",
+      "path_type": "hardlink",
+      "sha256": "47532cbff7c92b9faca65aa65bf8d2eceb83a52c5e43c21b6f4c44b3f7d7662c",
+      "size_in_bytes": 5615
+    },
+    {
+      "_path": "site-packages/gempy/core/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "b6467f8ae63b5199e030afa86900a9f76d19cfa7b5cb659d49b5713d3628fc30",
+      "size_in_bytes": 38
+    },
+    {
+      "_path": "site-packages/gempy/core/checkers.py",
+      "path_type": "hardlink",
+      "sha256": "e18aa032977ca47139ac85290c2e8bb263b81de00ea8d9e5dc063f9b66ba787c",
+      "size_in_bytes": 1787
+    },
+    {
+      "_path": "site-packages/gempy/core/data.py",
+      "path_type": "hardlink",
+      "sha256": "e047c5cd86842f2e3cc830548672de716cf7bd83d982b35302ec08172ea19a1e",
+      "size_in_bytes": 50995
+    },
+    {
+      "_path": "site-packages/gempy/core/data_modules/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/gempy/core/data_modules/geometric_data.py",
+      "path_type": "hardlink",
+      "sha256": "985eeebb27b792357054efc92d98d64e74507ece40bf9eb51ee2b206db60ea79",
+      "size_in_bytes": 53172
+    },
+    {
+      "_path": "site-packages/gempy/core/data_modules/stack.py",
+      "path_type": "hardlink",
+      "sha256": "3aee9290e5dbe606fb2aea92a22994b8d8bb291b2bd41596fc6bb24f6112639f",
+      "size_in_bytes": 19456
+    },
+    {
+      "_path": "site-packages/gempy/core/grid_modules/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "b6467f8ae63b5199e030afa86900a9f76d19cfa7b5cb659d49b5713d3628fc30",
+      "size_in_bytes": 38
+    },
+    {
+      "_path": "site-packages/gempy/core/grid_modules/create_topography.py",
+      "path_type": "hardlink",
+      "sha256": "1bcabf6432eb21e80b9f18c91eef7f548ccfaeefc610cb9ec864b4ff47f23046",
+      "size_in_bytes": 10905
+    },
+    {
+      "_path": "site-packages/gempy/core/grid_modules/diamond_square.py",
+      "path_type": "hardlink",
+      "sha256": "165ceb1a29a63d2c4cfff1456ed2fa2b6348f15b1e697da4909ff683d25211b8",
+      "size_in_bytes": 15090
+    },
+    {
+      "_path": "site-packages/gempy/core/grid_modules/grid_types.py",
+      "path_type": "hardlink",
+      "sha256": "52115e48691a080d406e0531049d6e2dc3ea806fc327df701ad5578254d2c4f2",
+      "size_in_bytes": 23400
+    },
+    {
+      "_path": "site-packages/gempy/core/grid_modules/section_utils.py",
+      "path_type": "hardlink",
+      "sha256": "2812686a29d8cba42240cbd0883c2d8de519bbb557d6e71d936bdb259f81649c",
+      "size_in_bytes": 4155
+    },
+    {
+      "_path": "site-packages/gempy/core/grid_modules/topography.py",
+      "path_type": "hardlink",
+      "sha256": "c7e791d4aec8eeb068e24f0d74cdd248130357f9406a7695bb202a75d6999233",
+      "size_in_bytes": 3123
+    },
+    {
+      "_path": "site-packages/gempy/core/interpolator.py",
+      "path_type": "hardlink",
+      "sha256": "6c35543ffef0258e746ffe0790c7c6885f54e133f1d291c6e784be54face0de9",
+      "size_in_bytes": 46271
+    },
+    {
+      "_path": "site-packages/gempy/core/model.py",
+      "path_type": "hardlink",
+      "sha256": "e0833401d239f7400553deece031206104045ddcc33ee45b85bc228faa4d76cb",
+      "size_in_bytes": 72096
+    },
+    {
+      "_path": "site-packages/gempy/core/qgrid_integration.py",
+      "path_type": "hardlink",
+      "sha256": "8d58f77bb801498d0a768badb9add99c30160eda71b5a4882a94c2bb6cb7f3de",
+      "size_in_bytes": 23331
+    },
+    {
+      "_path": "site-packages/gempy/core/solution.py",
+      "path_type": "hardlink",
+      "sha256": "fe60a3a5cc81c2e0160fbc1584f19e7d2a9f41a9fca25897687108019ecbc64f",
+      "size_in_bytes": 13307
+    },
+    {
+      "_path": "site-packages/gempy/core/theano_modules/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "b6467f8ae63b5199e030afa86900a9f76d19cfa7b5cb659d49b5713d3628fc30",
+      "size_in_bytes": 38
+    },
+    {
+      "_path": "site-packages/gempy/core/theano_modules/theano_export.py",
+      "path_type": "hardlink",
+      "sha256": "028462a7299f578da307e7b5491c3ad4ac890bcbe7a3392c5c121bc280ba6665",
+      "size_in_bytes": 57228
+    },
+    {
+      "_path": "site-packages/gempy/core/theano_modules/theano_graph.py",
+      "path_type": "hardlink",
+      "sha256": "dbb4616ca5fd94302d63d264821c952c4a772c43e7b19e1a9da27f57235e19d5",
+      "size_in_bytes": 105386
+    },
+    {
+      "_path": "site-packages/gempy/core/theano_modules/theano_graph_pro.py",
+      "path_type": "hardlink",
+      "sha256": "209d08c3ce2124a06c6f8d2ab673372b7bd79d5756cd74154e6950be1febc328",
+      "size_in_bytes": 99736
+    },
+    {
+      "_path": "site-packages/gempy/core/theano_modules/theano_kriging.py",
+      "path_type": "hardlink",
+      "sha256": "8867046af9972189975f8d752c5ba7f63b1bf6d6f31dac2b6b187abe19e71789",
+      "size_in_bytes": 23555
+    },
+    {
+      "_path": "site-packages/gempy/gempy_api.py",
+      "path_type": "hardlink",
+      "sha256": "da554acc8068a65fecefd97ef8f203788a286b19379f2557586934a0fe69a0ee",
+      "size_in_bytes": 13474
+    },
+    {
+      "_path": "site-packages/gempy/plot/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "68295de874e6ae33a789f4dfce2b36e57f6aa3183d311767c2414dbbbcf30fad",
+      "size_in_bytes": 42
+    },
+    {
+      "_path": "site-packages/gempy/plot/_plot.py",
+      "path_type": "hardlink",
+      "sha256": "6988e7f5409812180eeb74d3a632e91b71096ecfb5f9c34ec71b2133f03a0dc5",
+      "size_in_bytes": 14932
+    },
+    {
+      "_path": "site-packages/gempy/plot/_vista.py",
+      "path_type": "hardlink",
+      "sha256": "40c069f123e93bdafe4c9f1c38bca6255c12f7246a9ab62ae48204bcc43e584f",
+      "size_in_bytes": 41793
+    },
+    {
+      "_path": "site-packages/gempy/plot/_visualization_2d.py",
+      "path_type": "hardlink",
+      "sha256": "98a882080201ee4ff5fd9c7d4a41d771bb577268353b810cd2d04b17b5bc2bf4",
+      "size_in_bytes": 55427
+    },
+    {
+      "_path": "site-packages/gempy/plot/decorators.py",
+      "path_type": "hardlink",
+      "sha256": "50ab87278073ae74adfca067ad11b139886a0689eeece6368718a54c56261fad",
+      "size_in_bytes": 4454
+    },
+    {
+      "_path": "site-packages/gempy/plot/helpers.py",
+      "path_type": "hardlink",
+      "sha256": "6fa9a52c8d4d1884ebfe328366c03606d6b693c69fe1f19edb3cd46848bba773",
+      "size_in_bytes": 1113
+    },
+    {
+      "_path": "site-packages/gempy/plot/plot_api.py",
+      "path_type": "hardlink",
+      "sha256": "24a73b79a7458a4a647f29f94df2fd7bba4ca459684647d4faae60a63c3707bd",
+      "size_in_bytes": 22784
+    },
+    {
+      "_path": "site-packages/gempy/plot/plot_utils.py",
+      "path_type": "hardlink",
+      "sha256": "24e573da193f4497f59ac91f49ed7c9a51f35a46248f8dd15ebf81861adabe88",
+      "size_in_bytes": 13186
+    },
+    {
+      "_path": "site-packages/gempy/plot/sequential_pile.py",
+      "path_type": "hardlink",
+      "sha256": "35baf7cb1b30b542af05773b0fbb0b5c24c163b4b0eb5533d3fb67aebdb4fbaa",
+      "size_in_bytes": 14062
+    },
+    {
+      "_path": "site-packages/gempy/plot/vista.py",
+      "path_type": "hardlink",
+      "sha256": "c3d26efb21b71dc0774f322b7db3590f0ee865537e1c8aad37d4d5ee7443d738",
+      "size_in_bytes": 38071
+    },
+    {
+      "_path": "site-packages/gempy/plot/vista_aux.py",
+      "path_type": "hardlink",
+      "sha256": "f28ae116da509fe52a6cf9e5f1129d4b150c6cf796e07a0a28dde2054322cb27",
+      "size_in_bytes": 6703
+    },
+    {
+      "_path": "site-packages/gempy/plot/vista_qt.py",
+      "path_type": "hardlink",
+      "sha256": "d3264cfcacf21c7ef56568cd68893aa20de89d40714d9e3088b571eae6e4157c",
+      "size_in_bytes": 2633
+    },
+    {
+      "_path": "site-packages/gempy/plot/visualization_2d.py",
+      "path_type": "hardlink",
+      "sha256": "0cbd015a3c818409c9a4aa2be119ba2af276321960487f9714557b0376454bbb",
+      "size_in_bytes": 36552
+    },
+    {
+      "_path": "site-packages/gempy/plot/visualization_3d.py",
+      "path_type": "hardlink",
+      "sha256": "e8d97fd1e84feae14ffc3f2d6b903799186356320c4cbfe3367d1bc104c6fa48",
+      "size_in_bytes": 61289
+    },
+    {
+      "_path": "site-packages/gempy/utils/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "1014f1bb4e78a37afe18a6f6ecee6f6b3329e279c57397e96b34d4ccbe84849d",
+      "size_in_bytes": 75
+    },
+    {
+      "_path": "site-packages/gempy/utils/analysis.py",
+      "path_type": "hardlink",
+      "sha256": "1e2672afa193cf2b7a0bce9f1b221d183b288703cb92ff33c71384d433bc9c43",
+      "size_in_bytes": 6662
+    },
+    {
+      "_path": "site-packages/gempy/utils/decimation.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/gempy/utils/docstring.py",
+      "path_type": "hardlink",
+      "sha256": "3763e4d01f339d2c38f8b554e38066f9195e08a03989bba65220f51cc1c3f94f",
+      "size_in_bytes": 6060
+    },
+    {
+      "_path": "site-packages/gempy/utils/export.py",
+      "path_type": "hardlink",
+      "sha256": "d31ddbabddc006e1686a468e08c651510d82ed7dc7fdb8d4420ee156f37e0b86",
+      "size_in_bytes": 4463
+    },
+    {
+      "_path": "site-packages/gempy/utils/extract_geomodeller_data.py",
+      "path_type": "hardlink",
+      "sha256": "dcbe7edf6d2472080280103dd10f524e85e59673471f1f788d677c43e6265462",
+      "size_in_bytes": 10157
+    },
+    {
+      "_path": "site-packages/gempy/utils/fishdist.py",
+      "path_type": "hardlink",
+      "sha256": "8233c687c1c8015db9781133856c170654c2f7c7234c38a9ec7bc1211ce997de",
+      "size_in_bytes": 13712
+    },
+    {
+      "_path": "site-packages/gempy/utils/geogrid.py",
+      "path_type": "hardlink",
+      "sha256": "e6dc2b56222988f424dfae8843e5f62d9a2449fb0862d3a4e470a383dacb3e55",
+      "size_in_bytes": 26745
+    },
+    {
+      "_path": "site-packages/gempy/utils/geomodeller_integration.py",
+      "path_type": "hardlink",
+      "sha256": "e2438914c0514698e6adb8b585bf32ad9f37220c6d996af52203bbd639611ddb",
+      "size_in_bytes": 54441
+    },
+    {
+      "_path": "site-packages/gempy/utils/gradient.py",
+      "path_type": "hardlink",
+      "sha256": "2d93d8228dd82afeac9bef56ec7a736269d4ebb2a07ef10e55fc7d60082ceb7c",
+      "size_in_bytes": 2887
+    },
+    {
+      "_path": "site-packages/gempy/utils/input_manipulation.py",
+      "path_type": "hardlink",
+      "sha256": "7b870a909c247e9676ac74492cece1789a50e6ef342ce11a38b5b6304a46175a",
+      "size_in_bytes": 8505
+    },
+    {
+      "_path": "site-packages/gempy/utils/meta.py",
+      "path_type": "hardlink",
+      "sha256": "ced589438377ea8556e790c27d2c49a84d79d3df104b4a011fa15e88e4514daa",
+      "size_in_bytes": 3372
+    },
+    {
+      "_path": "site-packages/gempy/utils/qgrid_api.py",
+      "path_type": "hardlink",
+      "sha256": "7173e3f12454967ce70b4ae2c851d485c94709e3a71dbe8fd9691674937edde3",
+      "size_in_bytes": 14411
+    }
+  ],
+  "paths_version": 1
+}

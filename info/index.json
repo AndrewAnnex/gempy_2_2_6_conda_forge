@@ -1,0 +1,27 @@
+{
+  "arch": null,
+  "build": "pyh9f0ad1d_1",
+  "build_number": 1,
+  "depends": [
+    "ipython",
+    "matplotlib",
+    "networkx",
+    "numpy",
+    "pandas <=1.0.5",
+    "pymc3",
+    "pytest",
+    "python",
+    "pyvista",
+    "scikit-image >=0.17",
+    "seaborn >=0.9",
+    "theano >=1.0.4"
+  ],
+  "license": "LGPL-3.0-only",
+  "license_family": "LGPL",
+  "name": "gempy",
+  "noarch": "python",
+  "platform": null,
+  "subdir": "noarch",
+  "timestamp": 1598707304563,
+  "version": "2.2.6"
+}

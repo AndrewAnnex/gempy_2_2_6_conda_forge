@@ -1,0 +1,83 @@
+# This file created by conda-build 3.19.2
+# meta.yaml template originally from:
+# /home/conda/recipe_root, last modified Sat Aug 29 13:17:04 2020
+# ------------------------------------------------
+
+package:
+    name: gempy
+    version: 2.2.6
+source:
+    sha256: 57a996bd8a9ad013537f9db8dac26deeee0e1929494a4714b87ce154eed61ab1
+    url: https://pypi.io/packages/source/g/gempy/gempy-2.2.6.tar.gz
+build:
+    noarch: python
+    number: '1'
+    script: /home/conda/feedstock_root/build_artifacts/gempy_1598707124282/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place/bin/python
+        -m pip install . -vv
+    string: pyh9f0ad1d_1
+requirements:
+    host:
+        - _libgcc_mutex 0.1 conda_forge
+        - _openmp_mutex 4.5 1_gnu
+        - ca-certificates 2020.6.20 hecda079_0
+        - certifi 2020.6.20 py36h9f0ad1d_0
+        - ld_impl_linux-64 2.34 hc38a660_9
+        - libffi 3.2.1 he1b5a44_1007
+        - libgcc-ng 9.3.0 h24d8f2e_16
+        - libgomp 9.3.0 h24d8f2e_16
+        - libstdcxx-ng 9.3.0 hdf63c60_16
+        - ncurses 6.2 he1b5a44_1
+        - openssl 1.1.1g h516909a_1
+        - pip 20.2.2 py_0
+        - python 3.6.11 h4d41432_2_cpython
+        - python_abi 3.6 1_cp36m
+        - readline 8.0 he28a2e2_2
+        - setuptools 49.6.0 py36h9f0ad1d_0
+        - sqlite 3.33.0 h4cf870e_0
+        - tk 8.6.10 hed695b0_0
+        - wheel 0.35.1 pyh9f0ad1d_0
+        - xz 5.2.5 h516909a_1
+        - zlib 1.2.11 h516909a_1009
+    run:
+        - ipython
+        - matplotlib
+        - networkx
+        - numpy
+        - pandas <=1.0.5
+        - pymc3
+        - pytest
+        - python
+        - pyvista
+        - scikit-image >=0.17
+        - seaborn >=0.9
+        - theano >=1.0.4
+test:
+    imports:
+        - gempy
+about:
+    description: 'GemPy is an open-source, Python-based 3-D structural geological
+        modeling software,
+
+        which allows the implicit (i.e. automatic) creation of complex geological
+        models
+
+        from interface and orientation data. It also offers support for stochastic
+        modeling
+
+        to adress parameter and model uncertainties
+
+        '
+    dev_url: https://github.com/cgre-aachen/gempy
+    doc_url: https://docs.gempy.org/
+    home: https://github.com/cgre-aachen/gempy
+    license: LGPL-3.0-only
+    license_family: LGPL
+    license_file: LICENSE
+    summary: Open-source, implicit 3D structural geological modeling in Python for
+        uncertainty analysis
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - AndrewAnnex
+        - Leguark
